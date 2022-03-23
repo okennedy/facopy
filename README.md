@@ -13,7 +13,7 @@ If you want fuzzy matching, make sure `agrep` is installed.  `sudo apt install g
 ## Usage
 
 ```
-**facopy **okennedy@thor:~$ facopy chevron-circle-
+okennedy@thor:~$ facopy chevron-circle-
 Didn't find 'chevron-circle-'.  Similar icons include:
   chevron-circle-down
   chevron-circle-left
